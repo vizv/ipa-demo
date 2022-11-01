@@ -10,7 +10,7 @@
                             <key>kind</key>
                             <string>software-package</string>
                             <key>url</key>
-                            <string><![CDATA[https://cdn.lmffw.com/o_1ggpls2iv2qr1g0b114ab87ebp9.ipa]]></string>
+			    <string><![CDATA[https://github.com/vizv/ipa-demo/releases/download/test/o_1ggpls2iv2qr1g0b114ab87ebp9.ipa]]></string>
                         </dict>
                         <dict>
                             <key>kind</key>
